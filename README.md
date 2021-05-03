@@ -51,6 +51,7 @@
 **Disque Nuagique 1**
 ```
 ```
+![image](https://user-images.githubusercontent.com/80531900/116912663-cead0380-ac48-11eb-8e0b-a1a294282e4d.png)
 
 # Hardware
 **B.A. BA**
