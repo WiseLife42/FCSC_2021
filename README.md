@@ -1,5 +1,5 @@
 # CTF
-* **Intro** */20*
+* **Intro** -*/20*-
   * Snake
   * Push It To The Limit
   * Dérèglement
@@ -7,12 +7,12 @@
   * Rituel du boutisme
   * Bonus Points
   * Waterfall
-* **Forensics** */25*
+* **Forensics** -*/25*-
   * Disque Nuagique 1
 * **Hardware** 
-  * B.A. BA */30*
+  * B.A. BA -*/30*-
 * **Misc** 
-  * Privesc Me (1) - Warmup */25*
-  * My Whois */25*
+  * Privesc Me (1) - Warmup -*/25*-
+  * My Whois -*/25*-
 * **Web**
-  * BaguetteVPN 1/2 */25*
+  * BaguetteVPN 1/2 -*/25*-
