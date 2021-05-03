@@ -36,6 +36,7 @@
 ```
 
 **Rituel du boutisme**
+
 ![image](https://user-images.githubusercontent.com/80531900/116914535-251b4180-ac4b-11eb-9b1d-357b58d085ba.png)
 
 **Bonus Points**
