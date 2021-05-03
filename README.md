@@ -28,8 +28,10 @@
 ```
 
 **Dérèglement**
-```
-```
+
+![image](https://user-images.githubusercontent.com/80531900/116919280-56970b80-ac51-11eb-84a8-96c241b925b4.png)
+
+![image](https://user-images.githubusercontent.com/80531900/116919344-6d3d6280-ac51-11eb-8d96-2e46b77accf7.png)
 
 **Rituel en chaîne**
 ```
@@ -87,5 +89,11 @@ J'accède au code source de la page et bingo !
 
 # Web
 **BaguetteVPN 1/2**
-```
-```
+
+![image](https://user-images.githubusercontent.com/80531900/116919524-b097d100-ac51-11eb-8dbf-0bc21b9fd1b5.png)
+
+![image](https://user-images.githubusercontent.com/80531900/116919474-9958e380-ac51-11eb-9e72-a9ed5e3e5567.png)
+
+![image](https://user-images.githubusercontent.com/80531900/116919618-d1602680-ac51-11eb-8b55-02c12884faf8.png)
+
+![image](https://user-images.githubusercontent.com/80531900/116919654-de7d1580-ac51-11eb-960f-369c2a31facd.png)
