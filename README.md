@@ -20,8 +20,8 @@
 
 # Intro
 **Snake**
-```
-```
+
+![image](https://user-images.githubusercontent.com/80531900/116915388-3b75cd00-ac4c-11eb-8612-2565bf8d53f1.png)
 
 **Push It To The Limit**
 ```
@@ -70,8 +70,20 @@
 ```
 
 **My Whois**
+
+![image](https://user-images.githubusercontent.com/80531900/116915100-e33ecb00-ac4b-11eb-9ef4-e623b408750a.png)
+
+![image](https://user-images.githubusercontent.com/80531900/116915142-ee91f680-ac4b-11eb-9ac9-7d1a276f52ac.png)
+
+![image](https://user-images.githubusercontent.com/80531900/116915024-caceb080-ac4b-11eb-9699-6d21ccf12a92.png)
+
 ```
+On remarque qu'il y a un gros blanc au début, il va falloir afficher ce qu'il y a de caché...
+J'accède au code source de la page et bingo !
 ```
+
+![image](https://user-images.githubusercontent.com/80531900/116914952-b5f21d00-ac4b-11eb-8ab8-e02ac8a1376c.png)
+
 
 # Web
 **BaguetteVPN 1/2**
