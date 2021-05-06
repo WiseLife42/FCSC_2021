@@ -68,6 +68,8 @@
 
 ![image](https://user-images.githubusercontent.com/80531900/117269092-4604b200-ae58-11eb-82d0-33d167619031.png)
 
+![image](https://user-images.githubusercontent.com/80531900/117270157-36d23400-ae59-11eb-8c83-42da62691e33.png)
+
 ```
 On reamrque que c'est du code Morse, je le décortique à la main !
 Au fur et à mesure on se rend compte que le code morse se réfère à la page wikipedia "Code Morse international".
