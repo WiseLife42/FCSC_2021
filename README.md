@@ -70,7 +70,7 @@
 
 ```
 On reamrque que c'est du code Morse, je le décortique à la main !
-Au fur et à mesure on se rend conmpte que le code morse se réfère à la page wikipedia "Code Morse international".
+Au fur et à mesure on se rend compte que le code morse se réfère à la page wikipedia "Code Morse international".
 Le code est compris entre la fin du 1er paragraphe et la fin du 2ème paragraphe !
 ```
 
